@@ -1,0 +1,61 @@
+/* Websites Syles */
+*{
+    margin: 5;
+    padding: 3;
+    font-family: SF Pro Text, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+
+}
+
+.head-bubble {
+    background: rgb(219, 219, 238);
+    color: rgba(5, 115, 134, 0.644);
+    padding: 20px;
+    border-radius: 25px;
+    max-width: 1000px;
+    max-height: 500px;
+}
+
+
+body {
+    background: linear-gradient(145deg, #000000, #02d2f775, #000000);
+    font: 12px Arial;
+    color: rgba(5, 115, 134, 0.644);
+    min-width: fit-content;
+    min-height: fit-content;
+    padding: 40px 20px;
+}
+
+.body-bubble {
+    background: rgb(219, 219, 238);
+    color: rgba(5, 115, 134, 0.644);
+    padding: 20px;
+    border-radius: 25px;
+    max-width: 1000px;
+    position: relative;
+}
+.my-image {
+    position: relative;
+    top: 80px;
+    align-content: normal;
+    border: 30px;
+    align-self: left;
+
+}
+
+.my-image-hover {
+    background: #01194F75;
+    color: #000000;
+    animation: pop-up 0.2 timing-function delay iteration-count direction fill-mode;
+}
+
+.Title_style {
+    text-align: right;
+    font: 30px Helvetica;
+    color: rgb(40, 28, 90);
+    font-style: oblique;
+    
+} Verdana, Geneva, Tahoma, sans-serif, Arial;
+
+
+
